@@ -85,13 +85,4 @@ Use Bootstrap 5CDN to create a blog page with navbar, cards and footer.
 </body>
 </html>
 
-🔹 Features in This Code:
-Navbar with brand & links.
 
-Responsive cards using Bootstrap grid system (row + col-md-4).
-
-Footer with social icons (using Bootstrap Icons).
-
-Utility classes (my-5, shadow, btn-primary, etc.).
-
-Responsive design (works on mobile, tablet, and desktop).
